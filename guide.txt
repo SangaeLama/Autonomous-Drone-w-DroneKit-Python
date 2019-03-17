@@ -1,0 +1,10 @@
+STEP 1:
+dronekit-sitl copter --home=227.707568,85.325080,0,180
+
+STEP 2:
+mavproxy.py --master tcp:127.0.0.1:5760 --out udp:127.0.0.1:14551 --out udp:127.0.0.1:14550
+
+
+
+college Ground : 27.707568, 85.325080
+college Parking: 27.‎7083097,85.‎3246923
