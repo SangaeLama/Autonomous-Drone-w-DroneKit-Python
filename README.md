@@ -37,3 +37,10 @@ You can customize the script by modifying the following parameters:
 
 ## Acknowledgments
 This script is based on the DroneKit-Python library and is intended for educational and demonstration purposes.
+
+## System Architecture
+![SysArchitecture](https://github.com/SangaeLama/Autonomous-Drone-w-DroneKit-Python/assets/35286154/8e18ceba-e9ca-45e6-b12c-538dd5cdd126)
+
+![GCSedited](https://github.com/SangaeLama/Autonomous-Drone-w-DroneKit-Python/assets/35286154/75f9ade2-c59d-43fa-9eaa-5a3fc1255c14)
+
+
