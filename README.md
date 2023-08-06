@@ -1,4 +1,3 @@
-# FYP
 #Autonomous Drone w/ Dronekit
 
 # Drone Control Mission Script
