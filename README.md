@@ -1,5 +1,6 @@
 # FYP
-Humanitarian Drone w/ Dronekit
+#Autonomous Drone w/ Dronekit
+
 # Drone Control Mission Script
 
 This Python script uses DroneKit-Python to connect to a drone via network on localhost:14550. It enables you to control the drone by sending commands, performing basic actions like arming, takeoff, and waypoint navigation, and provides functions to calculate distances and bearings between locations.
@@ -15,7 +16,7 @@ This Python script uses DroneKit-Python to connect to a drone via network on loc
 1. Connect your computer to the drone's network. In my case, I had a VPS that was responsible for creating a reverse SSH tunnel from Drone's Raspberry Pi to my local computer.
 2. Run the script using the following command:
 ```bash
-python ./mission3 .py
+python ./mission3.py
 ```
 3. The script will establish a connection to the drone and perform the mission.
 
