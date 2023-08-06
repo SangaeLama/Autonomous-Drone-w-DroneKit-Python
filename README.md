@@ -1,6 +1,6 @@
-#Autonomous Drone w/ Dronekit
+# Autonomous Drone w/ Dronekit
 
-# Drone Control Mission Script
+## Drone Control Mission Script
 
 This Python script uses DroneKit-Python to connect to a drone via network on localhost:14550. It enables you to control the drone by sending commands, performing basic actions like arming, takeoff, and waypoint navigation, and provides functions to calculate distances and bearings between locations.
 
