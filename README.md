@@ -15,11 +15,11 @@ This Python script uses DroneKit-Python to connect to a drone via network on loc
 1. Connect your computer to the drone's network. In my case, I had a VPS that was responsible for creating a reverse SSH tunnel from Drone's Raspberry Pi to my local computer.
 2. Run the script using the following command:
 ```bash
-`python ./mission3 .py`
+python ./mission3 .py
 ```
 3. The script will establish a connection to the drone and perform the mission.
 
-## Features
+## Mission
 - Arm and takeoff to a specified altitude.
 - Navigate to a target location using GPS coordinates.
 - Loiter in a location for a specified duration.
