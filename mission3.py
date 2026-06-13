@@ -1,5 +1,3 @@
-print "Initialising..."
-
 # Import DroneKit-Python
 from dronekit import connect, VehicleMode, LocationGlobalRelative, LocationGlobal
 import math
